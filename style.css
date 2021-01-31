@@ -1,0 +1,17 @@
+img {
+    width: 4000px;
+    height: 3000px;
+}
+
+body {
+    text-align: center;
+    background-color: burlywood;
+}
+
+.lines {
+    font-size: 100px;
+}
+
+p {
+    font-size: 80px;
+}
